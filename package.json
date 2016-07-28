@@ -1,6 +1,6 @@
 {
   "name": "karma-istanbul",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "description": "A Karma plugin. Generate code coverage with istanbul.",
   "keywords": [
