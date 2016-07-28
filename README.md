@@ -45,12 +45,7 @@ module.exports = function(config) {
 };
 ```
 
-### FAQ
-
-----
-
 For more information on Karma see the [homepage].
-
 
 [homepage]: http://karma-runner.github.com
 [Istanbul]: https://github.com/tao-zeng/karma-istanbul
