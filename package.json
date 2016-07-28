@@ -18,10 +18,8 @@
   "bugs": {
     "url": "https://github.com/tao-zeng/karma-istanbul/issues"
   },
-  "private": false,
-  "license": "MIT",
   "dependencies": {
-    "istanbul": "^0.4.0",
+    "istanbul": "^0.4.0"
   },
-  "devDependencies": {}
+  "license": "MIT"
 }
